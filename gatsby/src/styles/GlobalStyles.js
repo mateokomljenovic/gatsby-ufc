@@ -1,6 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
 import bg from '../assets/images/Wavey-Fingerprint.svg';
-import stripes from '../assets/images/stripes.svg';
 
 const GlobalStyles = createGlobalStyle`
   :root {
@@ -66,8 +65,7 @@ const GlobalStyles = createGlobalStyle`
 
   hr {
     border: 0;
-    height: 8px;
-    background-image: url(${stripes});
+    height: 4px;
     background-size: 1500px;
   }
 
