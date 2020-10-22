@@ -77,7 +77,7 @@ export default function Logo() {
             <span className="letter">F</span>
             <span className="letter">D</span>
           </span>
-          <span className="merch">merch</span>
+          <span className="merch">apparel</span>
         </h1>
       </div>
     </LogoStyles>
